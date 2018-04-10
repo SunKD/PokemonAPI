@@ -1,0 +1,10 @@
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.deps.json
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.runtimeconfig.json
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.runtimeconfig.dev.json
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.dll
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\bin\Debug\netcoreapp2.0\pokeinfo.pdb
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.csproj.CoreCompileInputs.cache
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.AssemblyInfoInputs.cache
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.AssemblyInfo.cs
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.dll
+C:\Users\SunDa\Desktop\desktop2018\DojoAssignments\c#\netCore\pokeinfo\obj\Debug\netcoreapp2.0\pokeinfo.pdb
